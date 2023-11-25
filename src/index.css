@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Tajawal', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Tajawal', sans-serif;
+}
+::-webkit-scrollbar{
+  width: 15px;
+}
+::-webkit-scrollbar-track{
+  background-color: #ffd4de;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #ab3550;
+}

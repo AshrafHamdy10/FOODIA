@@ -1,0 +1,25 @@
+nav{
+    background-color: #fff;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    border-radius: 0px;
+}
+nav a {
+    color: #ab3550 !important;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+nav #last-nav {
+    background-color: #ab3550;
+    color: #fff !important;
+    border: 1px solid #ab3550;
+    box-sizing: border-box;
+}
+nav #last-nav:hover {
+    background-color: transparent;
+    color: #ab3550 !important;
+    transition: 0.2s ease-in-out;
+    
+}
