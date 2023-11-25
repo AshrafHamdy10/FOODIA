@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FOODIA/static/css/main.b4824247.css",
+    "main.js": "/FOODIA/static/js/main.159d9395.js",
+    "static/js/787.b0e29ad6.chunk.js": "/FOODIA/static/js/787.b0e29ad6.chunk.js",
+    "static/media/paralex2.jpg": "/FOODIA/static/media/paralex2.b7100a6dffbccb24639f.jpg",
+    "static/media/veggi-burger.jpg": "/FOODIA/static/media/veggi-burger.ec5cd8bf93299c521223.jpg",
+    "static/media/rain-sandwich.jpg": "/FOODIA/static/media/rain-sandwich.458444ab98c94cffb0a2.jpg",
+    "static/media/food-col.png": "/FOODIA/static/media/food-col.7008bcbe9f06494bce7a.png",
+    "static/media/header.jpg": "/FOODIA/static/media/header.687dba05196142450e30.jpg",
+    "static/media/raspberry-toast.jpg": "/FOODIA/static/media/raspberry-toast.a92d6d70efa15bb89e97.jpg",
+    "static/media/pride-img.jpg": "/FOODIA/static/media/pride-img.03887e3ad0e5e51bce3e.jpg",
+    "static/media/slide-2.jpg": "/FOODIA/static/media/slide-2.c3fd41abd789fec7e427.jpg",
+    "static/media/slide-1.jpg": "/FOODIA/static/media/slide-1.8bee41939c0dd38c04e9.jpg",
+    "static/media/slide-3.jpg": "/FOODIA/static/media/slide-3.2694a0ad930c88992ad3.jpg",
+    "index.html": "/FOODIA/index.html",
+    "main.b4824247.css.map": "/FOODIA/static/css/main.b4824247.css.map",
+    "main.159d9395.js.map": "/FOODIA/static/js/main.159d9395.js.map",
+    "787.b0e29ad6.chunk.js.map": "/FOODIA/static/js/787.b0e29ad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4824247.css",
+    "static/js/main.159d9395.js"
+  ]
+}
